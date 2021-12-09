@@ -26,7 +26,6 @@ namespace ListaEncadeada
              Console.WriteLine("Após Remoção");
              l1.RemoveElemento(300);
              l1.PrintLista();*/
-            Console.WriteLine("Carlos Dimitri");
             l1.InserirOrdemCrescente(76);
             l1.InserirOrdemCrescente(2);
             l1.InserirOrdemCrescente(5);
