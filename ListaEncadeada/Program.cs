@@ -6,7 +6,7 @@ namespace ListaEncadeada
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lista Encadeada Simples");
+            Console.WriteLine("> Lista Encadeada Simples");
             Lista l1 = new Lista();
             /* l1.InserirNaCabeca(2);
              l1.InserirNaCabeca(7);
