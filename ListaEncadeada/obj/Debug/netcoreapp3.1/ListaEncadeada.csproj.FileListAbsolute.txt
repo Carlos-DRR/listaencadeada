@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\bin\Debug\netcoreapp3.1\ListaEncadeada.exe
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\bin\Debug\netcoreapp3.1\ListaEncadeada.deps.json
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\bin\Debug\netcoreapp3.1\ListaEncadeada.runtimeconfig.json
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\bin\Debug\netcoreapp3.1\ListaEncadeada.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\bin\Debug\netcoreapp3.1\ListaEncadeada.dll
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\bin\Debug\netcoreapp3.1\ListaEncadeada.pdb
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\obj\Debug\netcoreapp3.1\ListaEncadeada.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\obj\Debug\netcoreapp3.1\ListaEncadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\obj\Debug\netcoreapp3.1\ListaEncadeada.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\obj\Debug\netcoreapp3.1\ListaEncadeada.AssemblyInfo.cs
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\obj\Debug\netcoreapp3.1\ListaEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\obj\Debug\netcoreapp3.1\ListaEncadeada.dll
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\obj\Debug\netcoreapp3.1\ListaEncadeada.pdb
+C:\Users\carlo\source\repos\ListaEncadeada\ListaEncadeada\obj\Debug\netcoreapp3.1\ListaEncadeada.genruntimeconfig.cache
